@@ -1,0 +1,2 @@
+cd .\ANZProjectPOC
+mvn verify
